@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763568381508",
+    "project_id": "sixpconnect",
+    "storage_bucket": "sixpconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763568381508:android:b9767a0e9349c781112611",
+        "android_client_info": {
+          "package_name": "com.example.sixpconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4CasK5P0mKhcoJZv_35RthkFP8QkL620"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
